@@ -4,7 +4,7 @@ div h1{
 }
 *{
     background-color: chocolate;
-    color: red;
+    color: black;
 }
 .box{
     display: flex;
