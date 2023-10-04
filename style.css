@@ -1,0 +1,11 @@
+div h1{
+    color: red;
+    font-size: 20px;
+}
+*{
+    background-color: chocolate;
+    color: blue;
+}
+.box{
+    display: flex;
+}
