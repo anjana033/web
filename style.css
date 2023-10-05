@@ -1,10 +1,9 @@
 div h1{
-    color: red;
+    color: pink;
     font-size: 20px;
 }
 *{
-    background-color: chocolate;
-    color: black;
+
 }
 .box{
     display: flex;

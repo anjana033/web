@@ -1,0 +1,49 @@
+    *{
+        margin: 0px;
+        padding: 0%;    }
+.heading{
+    font-size: 50px;
+    color: pink;
+}
+.myimage{
+    border-radius: 50%;
+}
+.list{
+    list-style: none;
+    color: blue;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+.list li{
+    margin-right: 2px;
+}
+.btn{
+    color:black;
+    background-color:brown;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.div1{
+    display: flex;
+    width: 20%;
+    height: 10%;
+    justify-content: space-between;
+    align-items: center;
+}
+.line{
+    width: 1px;
+    background-color: black;
+    height: 50px;
+}.parent{
+    display:flex;
+    justify-content: space-around;
+    background-color: beige;
+
+}.par{
+    display: flex;
+    width:50%;
+    justify-content: space-between;
+    align-items: center;
+}
